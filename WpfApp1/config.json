@@ -1,0 +1,36 @@
+{
+  "Brands": [
+    {
+      "Id": 1,
+      "Brand": "Apple",
+      "Coefficient": 2.0
+    },
+    {
+      "Id": 2,
+      "Brand": "Samsung",
+      "Coefficient": 1.5
+    },
+    {
+      "Id": 3,
+      "Brand": "Google",
+      "Coefficient": 1.7
+    }
+  ],
+  "Types": [
+    {
+      "Id": 1,
+      "Type": "Phone",
+      "Coefficient": 1.2
+    },
+    {
+      "Id": 2,
+      "Type": "Tablet",
+      "Coefficient": 1.1
+    },
+    {
+      "Id": 3,
+      "Type": "Laptop",
+      "Coefficient": 1.3
+    }
+  ]
+}
